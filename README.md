@@ -1,6 +1,6 @@
 <p align="center">
-	<img width="300" src="public/logo-dark.svg#gh-light-mode-only">
-	<img width="300" src="public/logo-light.svg#gh-dark-mode-only">
+	<img src="public/logo-dark.svg#gh-light-mode-only">
+	<img src="public/logo-light.svg#gh-dark-mode-only">
 </p>
 
 [![npm version](https://badge.fury.io/js/@mapcomponents%2Freact-maplibre.svg)](https://badge.fury.io/js/@mapcomponents%2Freact-maplibre) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![downloads](https://img.shields.io/npm/dt/@mapcomponents%2Freact-maplibre.svg) ![downloads](https://img.shields.io/npm/dm/@mapcomponents%2Freact-maplibre.svg)
