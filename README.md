@@ -1,6 +1,11 @@
-<img src="https://avatars.githubusercontent.com/u/64851912" alt="MapComponents logo" width="200"/>
-
-# [MapComponents MapLibre](https://mapcomponents.org/)
+<p align="center">
+	<a href="https://mapcomponents.org/">
+		<img width="300" src="public/logo-dark.svg#gh-light-mode-only">
+	</a>
+	<a href="https://mapcomponents.org/">
+		<img width="300" src="public/logo-light.svg#gh-dark-mode-only">
+	</a>
+</p>
 
 [![npm version](https://badge.fury.io/js/@mapcomponents%2Freact-maplibre.svg)](https://badge.fury.io/js/@mapcomponents%2Freact-maplibre) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![downloads](https://img.shields.io/npm/dt/@mapcomponents%2Freact-maplibre.svg) ![downloads](https://img.shields.io/npm/dm/@mapcomponents%2Freact-maplibre.svg)
 
