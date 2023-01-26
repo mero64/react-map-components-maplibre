@@ -1,11 +1,27 @@
-<p align="center">
+<h1 align="center">
 	<img src="public/logo-dark.svg#gh-light-mode-only">
 	<img src="public/logo-light.svg#gh-dark-mode-only">
+</h1>
+
+<div align="center">
+	<p><strong>MapComponents</strong> are React components for developing next generation WebGIS applications.<br>
+	Check out the complete list of components in the <strong><a href="https://catalogue.mapcomponents.org/" target="_blank">Catalogue >></a></strong></p>
+</div>
+
+<p align="center">
+  <img src="https://github.com/mapcomponents/react-map-components-maplibre/actions/workflows/node_version_test.yml/badge.svg" alt="Tests">
+	<a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
+  </a>
+	<a href="https://badge.fury.io/js/@mapcomponents%2Freact-maplibre">
+    <img src="https://badge.fury.io/js/@mapcomponents%2Freact-maplibre.svg" alt="npm version">
+  </a>
+  
+  <img src="https://img.shields.io/npm/dt/@mapcomponents%2Freact-maplibre.svg" alt="downloads">
+  <img src="https://img.shields.io/npm/dm/@mapcomponents%2Freact-maplibre.svg" alt="downloads">
+  
 </p>
 
-[![npm version](https://badge.fury.io/js/@mapcomponents%2Freact-maplibre.svg)](https://badge.fury.io/js/@mapcomponents%2Freact-maplibre) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![downloads](https://img.shields.io/npm/dt/@mapcomponents%2Freact-maplibre.svg) ![downloads](https://img.shields.io/npm/dm/@mapcomponents%2Freact-maplibre.svg)
-
-![Tests](https://github.com/mapcomponents/react-map-components-maplibre/actions/workflows/node_version_test.yml/badge.svg)
 
 @mapcomponents/react-maplibre is a react component library for declarative GIS application development.
 ## Links
