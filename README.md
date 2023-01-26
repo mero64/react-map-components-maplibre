@@ -5,7 +5,7 @@
 
 <div align="center">
 	<p><strong>MapComponents</strong> are React components for developing next generation WebGIS applications.<br>
-	Check out the complete list of components in the <strong><a href="https://catalogue.mapcomponents.org/">Catalogue >></a></strong></p>
+	Check out the complete list of components in the <strong><a href="https://catalogue.mapcomponents.org/">Catalogue 🔗</a></strong></p>
 </div>
 
 <p align="center">
@@ -21,13 +21,6 @@
   <img src="https://img.shields.io/npm/dm/@mapcomponents%2Freact-maplibre.svg" alt="downloads">
   
 </p>
-
-
-@mapcomponents/react-maplibre is a react component library for declarative GIS application development.
-## Links
-
-- Documentation: https://mapcomponents.github.io/react-map-components-maplibre/
-- Catalogue: https://www.mapcomponents.org/
 
 ## Getting started
 
