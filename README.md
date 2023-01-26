@@ -13,13 +13,15 @@
 	<a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
   </a>
-	<a href="https://badge.fury.io/js/@mapcomponents%2Freact-maplibre">
-    <img src="https://badge.fury.io/js/@mapcomponents%2Freact-maplibre.svg" alt="npm version">
+	<a href="https://www.npmjs.com/package/@mapcomponents/react-maplibre">
+    <img src="https://badge.fury.io/js/@mapcomponents%2Freact-maplibre.svg" alt="npm Version">
   </a>
-  
-  <img src="https://img.shields.io/npm/dt/@mapcomponents%2Freact-maplibre.svg" alt="downloads">
-  <img src="https://img.shields.io/npm/dm/@mapcomponents%2Freact-maplibre.svg" alt="downloads">
-  
+	<a href="https://www.npmjs.com/package/@mapcomponents/react-maplibre">
+  	<img src="https://img.shields.io/npm/dt/@mapcomponents%2Freact-maplibre.svg" alt="Total Downloads">
+	</a>
+	<a href="https://www.npmjs.com/package/@mapcomponents/react-maplibre">
+  	<img src="https://img.shields.io/npm/dm/@mapcomponents%2Freact-maplibre.svg" alt="Monthly Downloads">
+	</a>
 </p>
 
 ## Getting started
