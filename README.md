@@ -5,7 +5,7 @@
 
 <div align="center">
 	<p><strong>MapComponents</strong> are React components for developing next generation WebGIS applications.<br>
-	Check out the complete list of components in the <strong><a href="https://catalogue.mapcomponents.org/" target="_blank">Catalogue >></a></strong></p>
+	Check out the complete list of components in the <strong><a href="https://catalogue.mapcomponents.org/">Catalogue >></a></strong></p>
 </div>
 
 <p align="center">
