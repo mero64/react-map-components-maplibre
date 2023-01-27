@@ -24,6 +24,10 @@
 	</a>
 </p>
 
+<div align="center">
+	<img src="public/mapcomponents-preview.GIF">
+</div>
+
 ## Getting started
 
 Use our Codesandbox template to quickly try out this library without any setup required. https://codesandbox.io/s/base-template-n0vp9
